@@ -18,7 +18,7 @@
  
  
 <h1>Research Interests</h1>
-<p> Analysis of Complex Networks: Comminity Detection.</p>
+<p> Analysis of Complex Networks: Community Detection.</p>
 <p> Natural Language Processing: Text Classify，Named Entity Recognition.</p>
 
 

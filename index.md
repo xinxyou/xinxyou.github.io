@@ -7,7 +7,7 @@
       <p><b>Email  xxyou@tsinghua.edu.com  xinxyou@tju.edu.cn  </b></p>
     </td>
     <td width="25%">
-      <img src="/7.9-13－大图_(2).jpg" width="100%">      
+      <img src="/微信图片_20240604180507.jpg" width="100%">      
     </td>
   </tr>
 </table>

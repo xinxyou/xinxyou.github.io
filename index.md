@@ -3,11 +3,7 @@
 **Address:** Tsinghua University, Beijing, China, 100084  
 **Email:** [yxx23@mails.tsinghua.edu.cn](mailto:yxx23@mails.tsinghua.edu.cn)  
 
----
-
-| ![Profile Image](微信图片_20240604180507.jpg) |
-|:--:|
-|  |
+<img src="微信图片_20240604180507.jpg" alt="Profile Image" style="float: right; width: 200px; margin-left: 20px;"/>
 
 ---
 

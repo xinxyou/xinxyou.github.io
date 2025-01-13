@@ -10,10 +10,10 @@
 ## Education
 - **Doctoral Studies:**  
   - **Field:** Information and Communication Engineering
-  - **Institution:** Tsinghua University, Beijing, China  
+  - **Institution:** Department of Electronic Engineering, Tsinghua University, China  
 - **Master's Degree:**  
   - **Field:** Software Engineering  
-  - **Institution:** Tianjin University, China  
+  - **Institution:** College of Intelligence and Computing, Tianjin University, China  
 - **Bachelor of Science:**  
   - **Field:** Computer Science  
   - **Institution:** School of Education, Tianjin University, China  

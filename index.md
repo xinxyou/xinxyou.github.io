@@ -4,7 +4,7 @@
 **Email:** [yxx23@mails.tsinghua.edu.cn](mailto:yxx23@mails.tsinghua.edu.cn)  
 
 <div style="text-align:right;">
-    <img src="尤心心白底证件照调整.jpg" alt="Profile Image" style="width:200px;"/>
+    <img src="周是-证件照.jpg" alt="Profile Image" style="width:200px;"/>
 </div>
 
 ---

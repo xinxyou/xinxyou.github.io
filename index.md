@@ -5,6 +5,12 @@
 
 ---
 
+| ![Profile Image](微信图片_20240604180507.jpg) |
+|:--:|
+|  |
+
+---
+
 ## Education
 - **Doctoral Studies:**  
   - **Field:** Electronic Engineering  
@@ -46,6 +52,3 @@
 6. **Yan C, You X, Fu X, et al:**  
    - *A Typical Sample-Driven Learning Framework for Automatic Disease Diagnosis*, Applied Soft Computing, 2024, 161: 111745.
 
----
-
-![Profile Image](微信图片_20240604180507.jpg)

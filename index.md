@@ -1,13 +1,10 @@
-Here's the translation of the provided content into English:
-
-```markdown
 <table border="0">
   <tr>
     <td width="75%">
       <h1>Xinxin You</h1>
-      <p><b>Tsinghua-iFlytek Joint Laboratory</b></p>
+      <p><b>Department of Electronic Engineering, Tsinghua University</b></p>
       <p><b>Address: Tsinghua University, Beijing, China, 100084</b></p>
-      <p><b>Email: xxyou@tsinghua.edu.com, xinxyou@tju.edu.cn</b></p>
+      <p><b>Email: yxx23@mails.tsinghua.edu.cn</b></p>
     </td>
     <td width="25%">
       <img src="/微信图片_20240604180507.jpg" width="100%">      

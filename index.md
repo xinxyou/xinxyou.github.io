@@ -11,7 +11,7 @@
 
 ## Education
 - **Doctoral Studies:**  
-  - **Field:** Electronic Engineering  
+  - **Field:** Information and Communication Engineering
   - **Institution:** Tsinghua University, Beijing, China  
 
 - **Master's Degree:**  

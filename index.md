@@ -2,6 +2,7 @@
 **Department of Electronic Engineering, Tsinghua University**  
 **Address:** Tsinghua University, Beijing, China, 100084  
 **Email:** [yxx23@mails.tsinghua.edu.cn](mailto:yxx23@mails.tsinghua.edu.cn)  
+
 <img src="周是-证件照.jpg" alt="Profile Image" style="float:right; width:200px; margin-left:10px;"/>
 
 ---
@@ -38,5 +39,4 @@
 5. **Yan C, Fu X, You X, et al:**  
    - *Graph-Based Cross-Granularity Message Passing on Knowledge-Intensive Text*, IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024.  
 6. **Yan C, You X, Fu X, et al:**  
-   - *A Typical Sample-Driven Learning Framework for Automatic Disease Diagnosis*, Applied Soft Computing, 2024, 161: 111745.  
-
+   - *A Typical Sample-Driven Learning Framework for Automatic Disease Diagnosis*, Applied Soft Computing, 2024, 161: 111745.
